@@ -1,2 +1,2 @@
-# JavaKursMetek3
-Metek 3 java kursu uygulamaları
+# Metek iii - Java Kursu Uygulamaları
+Metek 3 java kursunda yaptığım uygulamalardır. Kopyalabilirsiniz.
